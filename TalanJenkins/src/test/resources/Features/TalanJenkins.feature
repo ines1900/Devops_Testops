@@ -1,9 +1,6 @@
 Feature: Verify that user can creat an account on Talan
 
-
-
-
-  @backgroud
+@backgroud
   Scenario Outline: Check login is successful with valid credentials
     Given browser is open
     When user is on login page
