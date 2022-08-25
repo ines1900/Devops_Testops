@@ -15,7 +15,7 @@ public class Tests_connect extends Driver{
 	Connexion connexion;
 	Connexion modifprofil ;
 	Connexion checkResources;
-//connexion
+////connexion
 	@Given("browser is open")
 	public void browser_is_open() {
 		intialization();
